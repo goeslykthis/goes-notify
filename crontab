@@ -1,0 +1,1 @@
+*/30 * * * * python /goes-notify.py >> /logfile
